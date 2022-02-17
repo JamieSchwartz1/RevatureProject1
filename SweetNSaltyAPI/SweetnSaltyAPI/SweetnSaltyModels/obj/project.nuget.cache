@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "zOhK5czlkWN2WKswO2YvR/mR1tK3ZbvzgumkASvMIsW78yI70wyWUpL2L1Ooa5LlZM3hnt2xoNapYajs4irvdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jamie Schwartz\\Documents\\Revature2021\\JamieSchwartzRevature2\\SweetNSaltyAPI\\SweetnSaltyAPI\\SweetnSaltyModels\\SweetnSaltyModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jamie Schwartz\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jamie Schwartz\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jamie Schwartz\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\5.0.0\\microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jamie Schwartz\\.nuget\\packages\\microsoft.extensions.configuration.json\\5.0.0\\microsoft.extensions.configuration.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jamie Schwartz\\.nuget\\packages\\microsoft.extensions.configuration.usersecrets\\5.0.0\\microsoft.extensions.configuration.usersecrets.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jamie Schwartz\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jamie Schwartz\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jamie Schwartz\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jamie Schwartz\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

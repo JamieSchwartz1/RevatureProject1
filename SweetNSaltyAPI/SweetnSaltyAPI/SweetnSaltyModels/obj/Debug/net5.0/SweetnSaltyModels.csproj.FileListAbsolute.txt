@@ -1,0 +1,12 @@
+C:\Users\Jamie Schwartz\Documents\Revature2021\JamieSchwartzRevature2\SweetNSaltyAPI\SweetnSaltyAPI\SweetnSaltyModels\bin\Debug\net5.0\SweetnSaltyModels.deps.json
+C:\Users\Jamie Schwartz\Documents\Revature2021\JamieSchwartzRevature2\SweetNSaltyAPI\SweetnSaltyAPI\SweetnSaltyModels\bin\Debug\net5.0\SweetnSaltyModels.dll
+C:\Users\Jamie Schwartz\Documents\Revature2021\JamieSchwartzRevature2\SweetNSaltyAPI\SweetnSaltyAPI\SweetnSaltyModels\bin\Debug\net5.0\ref\SweetnSaltyModels.dll
+C:\Users\Jamie Schwartz\Documents\Revature2021\JamieSchwartzRevature2\SweetNSaltyAPI\SweetnSaltyAPI\SweetnSaltyModels\bin\Debug\net5.0\SweetnSaltyModels.pdb
+C:\Users\Jamie Schwartz\Documents\Revature2021\JamieSchwartzRevature2\SweetNSaltyAPI\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\SweetnSaltyModels.csproj.AssemblyReference.cache
+C:\Users\Jamie Schwartz\Documents\Revature2021\JamieSchwartzRevature2\SweetNSaltyAPI\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\SweetnSaltyModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamie Schwartz\Documents\Revature2021\JamieSchwartzRevature2\SweetNSaltyAPI\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\SweetnSaltyModels.AssemblyInfoInputs.cache
+C:\Users\Jamie Schwartz\Documents\Revature2021\JamieSchwartzRevature2\SweetNSaltyAPI\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\SweetnSaltyModels.AssemblyInfo.cs
+C:\Users\Jamie Schwartz\Documents\Revature2021\JamieSchwartzRevature2\SweetNSaltyAPI\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\SweetnSaltyModels.csproj.CoreCompileInputs.cache
+C:\Users\Jamie Schwartz\Documents\Revature2021\JamieSchwartzRevature2\SweetNSaltyAPI\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\SweetnSaltyModels.dll
+C:\Users\Jamie Schwartz\Documents\Revature2021\JamieSchwartzRevature2\SweetNSaltyAPI\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\ref\SweetnSaltyModels.dll
+C:\Users\Jamie Schwartz\Documents\Revature2021\JamieSchwartzRevature2\SweetNSaltyAPI\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\SweetnSaltyModels.pdb

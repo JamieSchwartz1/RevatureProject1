@@ -1,0 +1,32 @@
+C:\Users\Jamie Schwartz\OneDrive\Revature\12062021_BatchFiles\12062021-batch-repo\demos\New folder\Rock-Paper-Scissors-Demo1\bin\Debug\net5.0\Rock-Paper-Scissors-Demo1.exe
+C:\Users\Jamie Schwartz\OneDrive\Revature\12062021_BatchFiles\12062021-batch-repo\demos\New folder\Rock-Paper-Scissors-Demo1\bin\Debug\net5.0\Rock-Paper-Scissors-Demo1.deps.json
+C:\Users\Jamie Schwartz\OneDrive\Revature\12062021_BatchFiles\12062021-batch-repo\demos\New folder\Rock-Paper-Scissors-Demo1\bin\Debug\net5.0\Rock-Paper-Scissors-Demo1.runtimeconfig.json
+C:\Users\Jamie Schwartz\OneDrive\Revature\12062021_BatchFiles\12062021-batch-repo\demos\New folder\Rock-Paper-Scissors-Demo1\bin\Debug\net5.0\Rock-Paper-Scissors-Demo1.runtimeconfig.dev.json
+C:\Users\Jamie Schwartz\OneDrive\Revature\12062021_BatchFiles\12062021-batch-repo\demos\New folder\Rock-Paper-Scissors-Demo1\bin\Debug\net5.0\Rock-Paper-Scissors-Demo1.dll
+C:\Users\Jamie Schwartz\OneDrive\Revature\12062021_BatchFiles\12062021-batch-repo\demos\New folder\Rock-Paper-Scissors-Demo1\bin\Debug\net5.0\ref\Rock-Paper-Scissors-Demo1.dll
+C:\Users\Jamie Schwartz\OneDrive\Revature\12062021_BatchFiles\12062021-batch-repo\demos\New folder\Rock-Paper-Scissors-Demo1\bin\Debug\net5.0\Rock-Paper-Scissors-Demo1.pdb
+C:\Users\Jamie Schwartz\OneDrive\Revature\12062021_BatchFiles\12062021-batch-repo\demos\New folder\Rock-Paper-Scissors-Demo1\obj\Debug\net5.0\Rock-Paper-Scissors-Demo1.csproj.AssemblyReference.cache
+C:\Users\Jamie Schwartz\OneDrive\Revature\12062021_BatchFiles\12062021-batch-repo\demos\New folder\Rock-Paper-Scissors-Demo1\obj\Debug\net5.0\Rock-Paper-Scissors-Demo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamie Schwartz\OneDrive\Revature\12062021_BatchFiles\12062021-batch-repo\demos\New folder\Rock-Paper-Scissors-Demo1\obj\Debug\net5.0\Rock-Paper-Scissors-Demo1.AssemblyInfoInputs.cache
+C:\Users\Jamie Schwartz\OneDrive\Revature\12062021_BatchFiles\12062021-batch-repo\demos\New folder\Rock-Paper-Scissors-Demo1\obj\Debug\net5.0\Rock-Paper-Scissors-Demo1.AssemblyInfo.cs
+C:\Users\Jamie Schwartz\OneDrive\Revature\12062021_BatchFiles\12062021-batch-repo\demos\New folder\Rock-Paper-Scissors-Demo1\obj\Debug\net5.0\Rock-Paper-Scissors-Demo1.csproj.CoreCompileInputs.cache
+C:\Users\Jamie Schwartz\OneDrive\Revature\12062021_BatchFiles\12062021-batch-repo\demos\New folder\Rock-Paper-Scissors-Demo1\obj\Debug\net5.0\Rock-Paper-Scissors-Demo1.dll
+C:\Users\Jamie Schwartz\OneDrive\Revature\12062021_BatchFiles\12062021-batch-repo\demos\New folder\Rock-Paper-Scissors-Demo1\obj\Debug\net5.0\ref\Rock-Paper-Scissors-Demo1.dll
+C:\Users\Jamie Schwartz\OneDrive\Revature\12062021_BatchFiles\12062021-batch-repo\demos\New folder\Rock-Paper-Scissors-Demo1\obj\Debug\net5.0\Rock-Paper-Scissors-Demo1.pdb
+C:\Users\Jamie Schwartz\OneDrive\Revature\12062021_BatchFiles\12062021-batch-repo\demos\New folder\Rock-Paper-Scissors-Demo1\obj\Debug\net5.0\Rock-Paper-Scissors-Demo1.genruntimeconfig.cache
+C:\Users\Jamie Schwartz\OneDrive\Revature\12062021_BatchFiles\12062021-batch-repo\demos\Rock-Paper-Scissors-Demo1\bin\Debug\net5.0\Rock-Paper-Scissors-Demo1.exe
+C:\Users\Jamie Schwartz\OneDrive\Revature\12062021_BatchFiles\12062021-batch-repo\demos\Rock-Paper-Scissors-Demo1\bin\Debug\net5.0\Rock-Paper-Scissors-Demo1.deps.json
+C:\Users\Jamie Schwartz\OneDrive\Revature\12062021_BatchFiles\12062021-batch-repo\demos\Rock-Paper-Scissors-Demo1\bin\Debug\net5.0\Rock-Paper-Scissors-Demo1.runtimeconfig.json
+C:\Users\Jamie Schwartz\OneDrive\Revature\12062021_BatchFiles\12062021-batch-repo\demos\Rock-Paper-Scissors-Demo1\bin\Debug\net5.0\Rock-Paper-Scissors-Demo1.runtimeconfig.dev.json
+C:\Users\Jamie Schwartz\OneDrive\Revature\12062021_BatchFiles\12062021-batch-repo\demos\Rock-Paper-Scissors-Demo1\bin\Debug\net5.0\Rock-Paper-Scissors-Demo1.dll
+C:\Users\Jamie Schwartz\OneDrive\Revature\12062021_BatchFiles\12062021-batch-repo\demos\Rock-Paper-Scissors-Demo1\bin\Debug\net5.0\ref\Rock-Paper-Scissors-Demo1.dll
+C:\Users\Jamie Schwartz\OneDrive\Revature\12062021_BatchFiles\12062021-batch-repo\demos\Rock-Paper-Scissors-Demo1\bin\Debug\net5.0\Rock-Paper-Scissors-Demo1.pdb
+C:\Users\Jamie Schwartz\OneDrive\Revature\12062021_BatchFiles\12062021-batch-repo\demos\Rock-Paper-Scissors-Demo1\obj\Debug\net5.0\Rock-Paper-Scissors-Demo1.csproj.AssemblyReference.cache
+C:\Users\Jamie Schwartz\OneDrive\Revature\12062021_BatchFiles\12062021-batch-repo\demos\Rock-Paper-Scissors-Demo1\obj\Debug\net5.0\Rock-Paper-Scissors-Demo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamie Schwartz\OneDrive\Revature\12062021_BatchFiles\12062021-batch-repo\demos\Rock-Paper-Scissors-Demo1\obj\Debug\net5.0\Rock-Paper-Scissors-Demo1.AssemblyInfoInputs.cache
+C:\Users\Jamie Schwartz\OneDrive\Revature\12062021_BatchFiles\12062021-batch-repo\demos\Rock-Paper-Scissors-Demo1\obj\Debug\net5.0\Rock-Paper-Scissors-Demo1.AssemblyInfo.cs
+C:\Users\Jamie Schwartz\OneDrive\Revature\12062021_BatchFiles\12062021-batch-repo\demos\Rock-Paper-Scissors-Demo1\obj\Debug\net5.0\Rock-Paper-Scissors-Demo1.csproj.CoreCompileInputs.cache
+C:\Users\Jamie Schwartz\OneDrive\Revature\12062021_BatchFiles\12062021-batch-repo\demos\Rock-Paper-Scissors-Demo1\obj\Debug\net5.0\Rock-Paper-Scissors-Demo1.dll
+C:\Users\Jamie Schwartz\OneDrive\Revature\12062021_BatchFiles\12062021-batch-repo\demos\Rock-Paper-Scissors-Demo1\obj\Debug\net5.0\ref\Rock-Paper-Scissors-Demo1.dll
+C:\Users\Jamie Schwartz\OneDrive\Revature\12062021_BatchFiles\12062021-batch-repo\demos\Rock-Paper-Scissors-Demo1\obj\Debug\net5.0\Rock-Paper-Scissors-Demo1.pdb
+C:\Users\Jamie Schwartz\OneDrive\Revature\12062021_BatchFiles\12062021-batch-repo\demos\Rock-Paper-Scissors-Demo1\obj\Debug\net5.0\Rock-Paper-Scissors-Demo1.genruntimeconfig.cache

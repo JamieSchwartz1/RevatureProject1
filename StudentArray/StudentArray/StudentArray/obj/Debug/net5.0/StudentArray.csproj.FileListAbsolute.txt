@@ -1,0 +1,16 @@
+C:\Users\Jamie Schwartz\Documents\Revature2021\JamieSchwartzRevature1\StudentArray\StudentArray\StudentArray\obj\Debug\net5.0\StudentArray.csproj.AssemblyReference.cache
+C:\Users\Jamie Schwartz\Documents\Revature2021\JamieSchwartzRevature1\StudentArray\StudentArray\StudentArray\obj\Debug\net5.0\StudentArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamie Schwartz\Documents\Revature2021\JamieSchwartzRevature1\StudentArray\StudentArray\StudentArray\obj\Debug\net5.0\StudentArray.AssemblyInfoInputs.cache
+C:\Users\Jamie Schwartz\Documents\Revature2021\JamieSchwartzRevature1\StudentArray\StudentArray\StudentArray\obj\Debug\net5.0\StudentArray.AssemblyInfo.cs
+C:\Users\Jamie Schwartz\Documents\Revature2021\JamieSchwartzRevature1\StudentArray\StudentArray\StudentArray\obj\Debug\net5.0\StudentArray.csproj.CoreCompileInputs.cache
+C:\Users\Jamie Schwartz\Documents\Revature2021\JamieSchwartzRevature1\StudentArray\StudentArray\StudentArray\bin\Debug\net5.0\StudentArray.exe
+C:\Users\Jamie Schwartz\Documents\Revature2021\JamieSchwartzRevature1\StudentArray\StudentArray\StudentArray\bin\Debug\net5.0\StudentArray.deps.json
+C:\Users\Jamie Schwartz\Documents\Revature2021\JamieSchwartzRevature1\StudentArray\StudentArray\StudentArray\bin\Debug\net5.0\StudentArray.runtimeconfig.json
+C:\Users\Jamie Schwartz\Documents\Revature2021\JamieSchwartzRevature1\StudentArray\StudentArray\StudentArray\bin\Debug\net5.0\StudentArray.runtimeconfig.dev.json
+C:\Users\Jamie Schwartz\Documents\Revature2021\JamieSchwartzRevature1\StudentArray\StudentArray\StudentArray\bin\Debug\net5.0\StudentArray.dll
+C:\Users\Jamie Schwartz\Documents\Revature2021\JamieSchwartzRevature1\StudentArray\StudentArray\StudentArray\bin\Debug\net5.0\ref\StudentArray.dll
+C:\Users\Jamie Schwartz\Documents\Revature2021\JamieSchwartzRevature1\StudentArray\StudentArray\StudentArray\bin\Debug\net5.0\StudentArray.pdb
+C:\Users\Jamie Schwartz\Documents\Revature2021\JamieSchwartzRevature1\StudentArray\StudentArray\StudentArray\obj\Debug\net5.0\StudentArray.dll
+C:\Users\Jamie Schwartz\Documents\Revature2021\JamieSchwartzRevature1\StudentArray\StudentArray\StudentArray\obj\Debug\net5.0\ref\StudentArray.dll
+C:\Users\Jamie Schwartz\Documents\Revature2021\JamieSchwartzRevature1\StudentArray\StudentArray\StudentArray\obj\Debug\net5.0\StudentArray.pdb
+C:\Users\Jamie Schwartz\Documents\Revature2021\JamieSchwartzRevature1\StudentArray\StudentArray\StudentArray\obj\Debug\net5.0\StudentArray.genruntimeconfig.cache
